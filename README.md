@@ -1,3 +1,14 @@
-# Hot JS Starter
+# GenArtHackParty3x0
 
-This project serves as a starting point for single-page JS apps that support live reloading and ES2015 support.
+Can a progess bar be art?
+
+No, probably not.
+
+## Usage
+
+```
+$ npm install
+$ npm start
+```
+
+Then navigate to http://localhost:8080 in your browser
